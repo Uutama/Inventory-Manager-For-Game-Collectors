@@ -1,0 +1,20 @@
+{
+  "inventory": [
+    {
+      "title": "Resident Evil 2",
+      "loose_price": 48.5,
+      "complete_price": 86.25,
+      "new_price": 391.15,
+      "region": "NTSC-U",
+      "platform": "ps1",
+      "console_slug": "playstation",
+      "match_score": 86.7,
+      "word_overlap": 2,
+      "suggested_price": 86,
+      "price_type": "CIB",
+      "sale_notes": "",
+      "condition": "CIB",
+      "price": 86
+    }
+  ]
+}
